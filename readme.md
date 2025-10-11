@@ -21,7 +21,7 @@ embedded_example_file: "examples/Grove_Voltage_Divider_minimal/Grove_Voltage_Div
 
 # Spannungsteiler
 
-![Spannungsteiler](./72_spannungsteiler.jpg)
+![Spannungsteiler](./72_spannungsteiler.png)
 
 ## Beschreibung
 Der Spannungsteiler ermöglicht es, große Spannungen zu verkleinern, um sie beispielsweise für einen Mikrocontroller messbar zu machen. So können Spannungen erfasst werden, die in ihrer ursprünglichen Form zu groß für die direkte Erfassung mit einem Mikrocontroller sind.
