@@ -1,4 +1,3 @@
-
 ---
 title: "Spannungsteiler"
 date: "2018-10-01T15:18:11.000Z"
