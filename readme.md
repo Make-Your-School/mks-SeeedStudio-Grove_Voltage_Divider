@@ -16,9 +16,6 @@ repo_part: "Grove_Voltage_Divider"
 product_url: "http://wiki.seeedstudio.com/Grove-Voltage_Divider/)"
 clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_Voltage_Divider.git"
 embedded_example_file: "examples/Grove_Voltage_Divider_minimal/Grove_Voltage_Divider_minimal.ino"
-title: 'Spannungsteiler'
-status: 'active'
-difficulty: 'expert'
 ---
 
 
